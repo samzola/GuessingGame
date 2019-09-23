@@ -1,3 +1,10 @@
+/*
+ * Author: Sam Zola
+ * Date: 9/23/2019
+ * Project: This program allows the user to guess a random number between 0 and 100.
+ */
+
+
 #include <iostream>
 #include <time.h>
 #include <stdlib.h>
